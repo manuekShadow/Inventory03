@@ -4,13 +4,16 @@
 /Users/manukhdez/Desktop/Maquina3B/ManDoc/Proyectos/Android/Versiones_INV_ALM/MicroServicio/Codigo/AuthMServicesInventory/src/main/java/com/t3b/msinventory/rest/api/utils/Constants.java
 /Users/manukhdez/Desktop/Maquina3B/ManDoc/Proyectos/Android/Versiones_INV_ALM/MicroServicio/Codigo/AuthMServicesInventory/src/main/java/com/t3b/msinventory/rest/api/entities/custom/Order.java
 /Users/manukhdez/Desktop/Maquina3B/ManDoc/Proyectos/Android/Versiones_INV_ALM/MicroServicio/Codigo/AuthMServicesInventory/src/main/java/com/t3b/msinventory/utils/ServerPortCustomatization.java
+/Users/manukhdez/Desktop/Maquina3B/ManDoc/Proyectos/Android/Versiones_INV_ALM/MicroServicio/Codigo/AuthMServicesInventory/src/main/java/com/t3b/msinventory/rest/api/entities/custom/Response.java
 /Users/manukhdez/Desktop/Maquina3B/ManDoc/Proyectos/Android/Versiones_INV_ALM/MicroServicio/Codigo/AuthMServicesInventory/src/main/java/com/t3b/msinventory/rest/api/servicesImpl/DataServicesImpl.java
 /Users/manukhdez/Desktop/Maquina3B/ManDoc/Proyectos/Android/Versiones_INV_ALM/MicroServicio/Codigo/AuthMServicesInventory/src/main/java/com/t3b/msinventory/rest/api/repository/UsuarioRepository.java
 /Users/manukhdez/Desktop/Maquina3B/ManDoc/Proyectos/Android/Versiones_INV_ALM/MicroServicio/Codigo/AuthMServicesInventory/src/main/java/com/t3b/msinventory/rest/api/entities/custom/OrderEntity.java
 /Users/manukhdez/Desktop/Maquina3B/ManDoc/Proyectos/Android/Versiones_INV_ALM/MicroServicio/Codigo/AuthMServicesInventory/src/main/java/com/t3b/msinventory/rest/api/repository/TicketRepository.java
 /Users/manukhdez/Desktop/Maquina3B/ManDoc/Proyectos/Android/Versiones_INV_ALM/MicroServicio/Codigo/AuthMServicesInventory/src/main/java/com/t3b/msinventory/rest/api/entities/custom/Usuario.java
+/Users/manukhdez/Desktop/Maquina3B/ManDoc/Proyectos/Android/Versiones_INV_ALM/MicroServicio/Codigo/AuthMServicesInventory/src/main/java/com/t3b/msinventory/utils/Log4J2PropertiesConf.java
 /Users/manukhdez/Desktop/Maquina3B/ManDoc/Proyectos/Android/Versiones_INV_ALM/MicroServicio/Codigo/AuthMServicesInventory/src/main/java/com/t3b/msinventory/rest/api/entities/custom/OrderInsert.java
 /Users/manukhdez/Desktop/Maquina3B/ManDoc/Proyectos/Android/Versiones_INV_ALM/MicroServicio/Codigo/AuthMServicesInventory/src/main/java/com/t3b/msinventory/rest/api/controller/InventoryController.java
+/Users/manukhdez/Desktop/Maquina3B/ManDoc/Proyectos/Android/Versiones_INV_ALM/MicroServicio/Codigo/AuthMServicesInventory/src/main/java/com/t3b/msinventory/rest/api/entities/custom/OrderResponseLayInv.java
 /Users/manukhdez/Desktop/Maquina3B/ManDoc/Proyectos/Android/Versiones_INV_ALM/MicroServicio/Codigo/AuthMServicesInventory/src/main/java/com/t3b/msinventory/rest/api/model/ModelUserInfo.java
 /Users/manukhdez/Desktop/Maquina3B/ManDoc/Proyectos/Android/Versiones_INV_ALM/MicroServicio/Codigo/AuthMServicesInventory/src/main/java/com/t3b/msinventory/rest/api/db/IInventory.java
 /Users/manukhdez/Desktop/Maquina3B/ManDoc/Proyectos/Android/Versiones_INV_ALM/MicroServicio/Codigo/AuthMServicesInventory/src/main/java/com/t3b/msinventory/SecurityConfiguration.java
@@ -22,6 +25,7 @@
 /Users/manukhdez/Desktop/Maquina3B/ManDoc/Proyectos/Android/Versiones_INV_ALM/MicroServicio/Codigo/AuthMServicesInventory/src/main/java/com/t3b/msinventory/rest/api/repository/InventoryLayoutRepository.java
 /Users/manukhdez/Desktop/Maquina3B/ManDoc/Proyectos/Android/Versiones_INV_ALM/MicroServicio/Codigo/AuthMServicesInventory/src/main/java/com/t3b/msinventory/utils/Tools.java
 /Users/manukhdez/Desktop/Maquina3B/ManDoc/Proyectos/Android/Versiones_INV_ALM/MicroServicio/Codigo/AuthMServicesInventory/src/main/java/com/t3b/msinventory/utils/Config.java
+/Users/manukhdez/Desktop/Maquina3B/ManDoc/Proyectos/Android/Versiones_INV_ALM/MicroServicio/Codigo/AuthMServicesInventory/src/main/java/com/t3b/msinventory/rest/api/controller/ControllerExceptionHandler.java
 /Users/manukhdez/Desktop/Maquina3B/ManDoc/Proyectos/Android/Versiones_INV_ALM/MicroServicio/Codigo/AuthMServicesInventory/src/main/java/com/t3b/msinventory/rest/api/entities/custom/InventoryLayout.java
 /Users/manukhdez/Desktop/Maquina3B/ManDoc/Proyectos/Android/Versiones_INV_ALM/MicroServicio/Codigo/AuthMServicesInventory/src/main/java/com/t3b/msinventory/rest/api/entities/custom/OrderResponse.java
 /Users/manukhdez/Desktop/Maquina3B/ManDoc/Proyectos/Android/Versiones_INV_ALM/MicroServicio/Codigo/AuthMServicesInventory/src/main/java/com/t3b/msinventory/rest/api/entities/custom/UsuarioOAUTH.java
