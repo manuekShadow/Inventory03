@@ -1209,3 +1209,7 @@
 [INFO ] 2022-02-01 15:27:20.148 [restartedMain] AuthMServicesInventoryApplication - Started AuthMServicesInventoryApplication in 8.655 seconds (JVM running for 12633.821)
 [INFO ] 2022-02-01 15:30:43.219 [main] AuthMServicesInventoryApplicationTests - No active profile set, falling back to default profiles: default
 [INFO ] 2022-02-01 15:31:05.786 [main] AuthMServicesInventoryApplicationTests - Started AuthMServicesInventoryApplicationTests in 25.449 seconds (JVM running for 29.866)
+[INFO ] 2022-02-02 10:26:23.986 [main] AuthMServicesInventoryApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2022-02-02 10:26:42.667 [main] AuthMServicesInventoryApplicationTests - Started AuthMServicesInventoryApplicationTests in 21.525 seconds (JVM running for 26.017)
+[INFO ] 2022-02-02 10:27:39.850 [restartedMain] AuthMServicesInventoryApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2022-02-02 10:27:48.857 [restartedMain] AuthMServicesInventoryApplication - Started AuthMServicesInventoryApplication in 10.794 seconds (JVM running for 13.5)
